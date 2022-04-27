@@ -1,5 +1,5 @@
 {
-  "homepage": "https://M4g1cFr4n3k.github.io/testiffy",
+  "homepage": "https://M4g1cFr4n3k.github.io/testify",
   "name": "testify",
   "version": "0.1.0",
   "private": true,
@@ -8,7 +8,6 @@
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.26.1",
-    "gh-pages": "^3.2.3",
     "rc-progress": "^3.2.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -43,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }

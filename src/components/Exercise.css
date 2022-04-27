@@ -1,0 +1,7 @@
+.exercise-container {
+    background-color: var(--form-background);
+    border: solid var(--form-border) 5px;
+    border-radius: 20px;
+}
+.answer{
+}

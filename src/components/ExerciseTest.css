@@ -1,0 +1,45 @@
+.exerciseTest-container{
+    margin: 30px;
+}
+.medium{
+    background-color: var(--input-background);
+    border: solid var(--input-border) 2px;
+    border-radius: 50px;
+    width: 400px;
+    height: 50px;
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    position: relative;
+    left: 75px;
+    bottom: 35px;
+}
+.big{
+    background-color: var(--input-background);
+    border: solid var(--input-border) 2px;
+    border-radius: 50px;
+    width: 500px;
+    height: 50px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin: 25px;
+}
+.exercise-yes{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: solid var(--input-border) 25px;
+    border-radius: 15px;
+    position: relative;
+    top: 20px;
+    left: 60px;
+    cursor: pointer;
+    z-index: 999;
+}
+.exercise-yes:checked{
+    border: solid var(--input-check) 25px;
+}
+.no{
+    display: none;
+}

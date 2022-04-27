@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/testify/static/css/main.bd65ee0b.css",
+    "main.js": "/testify/static/js/main.c3d47b52.js",
+    "static/media/tile_background.png": "/testify/static/media/tile_background.15744c6de90f8ee3a683.png",
+    "static/media/tile_background_2.png": "/testify/static/media/tile_background_2.65c2031dc6dff7ed91c8.png",
+    "index.html": "/testify/index.html",
+    "main.bd65ee0b.css.map": "/testify/static/css/main.bd65ee0b.css.map",
+    "main.c3d47b52.js.map": "/testify/static/js/main.c3d47b52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd65ee0b.css",
+    "static/js/main.c3d47b52.js"
+  ]
+}
